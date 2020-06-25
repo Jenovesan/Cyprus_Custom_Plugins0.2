@@ -1,0 +1,107 @@
+TotalTimeForSupplyDrop: 240
+TimeUntilSupplyDrop: 240
+State: false
+
+GodAppleCooldown: 90
+GoldenAppleCooldown: 15
+
+JackPotTotal: 10
+
+XpBoostPlayers:
+XpBoostTimes:
+XpBoostPercentages:
+  
+DamageBoostPlayers:
+DamageBoostTimes:
+DamageBoostPercentages:
+
+SellBoostPlayers:
+SellBoostTimes:
+SellBoostPercentages:
+
+CommonItem:
+UncommonItem:
+RareItem:
+CommomTime: 1
+Uncommonime: 6
+RareTime: 24
+CommonPlayerUUID:
+UncommonPlayerUUID:
+RarePlayerUUID:
+CommonPrice: 0
+Uncommonprice: 0
+RarePrice:
+PlayersToAddCommon:
+PlayersToAddUncommon:
+PlayersToAddRare:
+ItemsToAddCommon:
+ItemsToAddUncommon:
+ItemsToAddRare:
+
+MobCoins:
+
+TimeTilCastle:
+CastleIsHappening:
+CastleTime:
+GateNumber: 1
+GateHealth: 25
+
+FactionTokens:
+XpUpgrade:
+DropRateUpgrade:
+CropGrowthUpgrade:
+TntStorageUpgrade:
+FactionShieldUpgrade:
+DamageReductionUpgrade:
+FactionWarpsUpgrade:
+FactionRallyUpgrade:
+FactionsTntAmoung:
+FactionShieldTimes:
+FactionsShieldStatus:
+FactionsBaseRegion:
+RallyCooldown:
+RallyLocation:
+RallyUse:
+
+SandBots:
+
+CaneBots:
+HarvesterHoes:
+
+FLock:
+
+FChestFactions:
+FChestItems:
+
+FRosters:
+FRosterEnabled:
+
+WhiteListEnabled:
+WhiteListedPlayers:
+
+Traveler:
+Novice:
+Elite:
+Legion:
+Spartan:
+Titan:
+Olympian:
+Juggernaut:
+Ravager:
+Viking:
+Tank:
+Raiding:
+Enchanter:
+Archer:
+Bard:
+SOTW:
+Tools:
+
+FAlts:
+
+Time:
+
+nv:
+wb:
+
+UsedKey:

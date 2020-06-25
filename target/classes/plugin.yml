@@ -1,0 +1,166 @@
+name: Cyprus_Custom_Plugins
+version: 1.0-SNAPSHOT
+main: Main.MainClass
+api-version: 1.8.8
+authors: [Jeno]
+depend: [Factions]
+description: Cyprus's Custom Plugins
+permissions:
+  cyprus.roam:
+    description: Allows a player to use /roam
+    default: op
+  cyprus.staff:
+    description: Allows a player to use staff commands and have staff perms
+    default: op
+  kit.novice:
+    description: Allows a player to use the novice kit
+    default: op
+  kit.elite:
+    description: Allows a player to use the elite kit
+    default: op
+  kit.legion:
+    description: Allows a player to use the legion kit
+    default: op
+  kit.spartan:
+    description: Allows a player to use the spartan kit
+    default: op
+  kit.titan:
+    description: Allows a player to use the titan kit
+    default: op
+  kit.olympian:
+    description: Allows a player to use the olympian kit
+    default: op
+  kit.juggernaut:
+    description: Allows a player to use the juggernaut gkit
+    default: op
+  kit.ravager:
+    description: Allows a player to use the ravager gkit
+    default: op
+  kit.viking:
+    description: Allows a player to use the viking gkit
+    default: op
+  kit.tank:
+    description: Allows a player to use the tank gkit
+    default: op
+  kit.raiding:
+    description: Allows a player to use the raiding gkit
+    default: op
+  kit.enchanter:
+    description: Allows a player to use the enchanter gkit
+    default: op
+  kit.archer:
+    description: Allows a player to use the archer gkit
+    default: op
+  kit.bard:
+    description: Allows a player to use the bard gkit
+    default: op
+  kit.sotw:
+    description: Allows a player to use the sotw gkit
+    default: op
+  kit.tools:
+    description: Allows a player to use the tools gkit
+    default: op
+  cyprus.afkcheck:
+    description: Allows a player to check a player's afk time
+    default: op
+  cyprus.topdown:
+    description: Allows a player to teleport up and down
+    default: op
+  nightvision.use:
+    description: Allows a player to use the /nv command
+    default: op
+  wb.use:
+    description: Allows a player to use the /wb command
+    default: op
+  cyprus.key:
+    description: Allows a player to get a key
+    default: op
+commands:
+  ce:
+    description: Pulls up the custom enchant gui
+  website:
+    description: Shows the website gui
+  discord:
+    description: Shows the discord gui
+  hh:
+    description: Used to give a harvester hoe
+  upick:
+    description: Gives upgradable pickaxe
+  autosellgem:
+    description: Gives auto sell gem
+  supplydrop:
+    description: List of supply drop commands
+  sd:
+    description: List of supply drop commands
+  xpboost:
+    description: Gives a xp boost note
+  damageboost:
+    description: Gives a damage boost note
+  sellboost:
+    description: Gives a sell boost note
+  jackpot:
+    description: Pulls up the jackpot gui
+  blackmarket:
+    description: Pulls up the black market gui
+  mobcoins:
+    description: Returns the amount of mob coins the player has
+  mobshop:
+    description: Pulls up the mobshop gui
+  f upgrade:
+    description: Custom faction commands
+  supercegg:
+    description: Gives the player a super creeper egg
+  f tnt:
+    description: Shows your faction's tnt balance
+  tntfill:
+    description: Pulls up the tntfill gui
+  f shield:
+    description: Pulls up the faction shield gui
+  givetrenchpick:
+    description: Gives player a factions pickaxe
+  sandbot:
+    description: Sandbot commands
+  canebot:
+    description: Gives a canebot
+  sellwand:
+    description: Gives a sell wand
+  report:
+    description: Reports a player
+  scane:
+    description: Sells the cane in your inventory
+  pot:
+    description: Fills your inventory with pots
+  chunkbuster:
+    description: Gives a chunk buster
+  roam:
+    description: Puts a player in roam
+  kit:
+    description: Pulls up the kit gui
+  lightningrod:
+    description: Gives a player a lightning rod
+  afkcheck:
+    description: Checks if a player is afk
+  top:
+    description: Teleports you above
+  down:
+    description: Teleports you down
+  kingswordgive:
+    description: Gives a player a King's Sword
+  queenaxegive:
+    description: Gives a player a Queen's Axe
+  entityclear:
+    description: Clears entities
+  prot7:
+    description: Gives a prot 7 book
+  cyprustime:
+    description: Sets world time
+  wild:
+    description: Teleports you to a random location
+  wb:
+    description: Gives you permanent water breathing
+  nv:
+    description: Gives you permament night vision
+  reclaim:
+    description: Gives a player a mithril key if they have permission
+  sotwjoin:
+    description: Keep people trapped at spawn

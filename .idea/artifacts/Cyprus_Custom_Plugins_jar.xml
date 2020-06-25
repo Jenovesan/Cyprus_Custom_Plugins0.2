@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cyprus_Custom_Plugins:jar">
+    <output-path>$PROJECT_DIR$/../Desktop/Server/plugins</output-path>
+    <root id="archive" name="Cyprus_Custom_Plugins.jar">
+      <element id="module-output" name="Cyprus_Custom_Plugins" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
